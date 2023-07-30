@@ -1,0 +1,24 @@
+{
+  "name": "crud-nodejs",
+  "version": "1.0.0",
+  "description": "A quality CRUD",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./core/crud.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niltonfernandesj/crud-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niltonfernandesj/crud-nodejs/issues"
+  },
+  "homepage": "https://github.com/niltonfernandesj/crud-nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
